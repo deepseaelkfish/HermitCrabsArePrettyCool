@@ -28,6 +28,8 @@ Move: Left and Right D-Pad
 Climb: Up and Down D-Pad
 Jump/Select: A Button
 
-Note: At this time, the game does not support analogue stick movement.
+Notes
+At this time, the game does not support analogue stick movement.
+All controllers should be powered on and connected to the PC before starting the game.
 
 Game created by DeepSeaElkFish, August 2014
