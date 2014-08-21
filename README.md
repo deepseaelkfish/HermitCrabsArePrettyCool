@@ -29,3 +29,5 @@ Climb: Up and Down D-Pad
 Jump/Select: A Button
 
 Note: At this time, the game does not support analogue stick movement.
+
+Game created by DeepSeaElkFish, August 2014
